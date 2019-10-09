@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<channel>
+<title>Battery Center</title>
+<item>
+<title>v0.1</title>
+<pubDate>Tue, 24 Sep 2019 13:06:50 -0500</pubDate>
+<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ronyfadel/BatteryCenterReleases/releases/download/v0.1/Battery_Center.zip" sparkle:version="1.1" sparkle:shortVersionString="1.1" length="6680589" type="application/octet-stream"/>
+</item>
+</channel></rss>
