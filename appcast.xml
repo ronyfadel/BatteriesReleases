@@ -2,9 +2,9 @@
 <channel>
 <title>Battery Center</title>
 <item>
-<title>v0.1</title>
-<pubDate>Tue, 24 Sep 2019 13:06:50 -0500</pubDate>
-<sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ronyfadel/BatteryCenterReleases/releases/download/v0.1/Battery_Center.zip" sparkle:version="1.1" sparkle:shortVersionString="1.1" length="6680589" type="application/octet-stream"/>
+<title>0.3.1</title>
+<pubDate>Tue, 15 Oct 2019 16:34:44 -0500</pubDate>
+<sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
+<enclosure url="https://github.com/ronyfadel/BatteriesWidget/releases/download/v0.3.1/Battery.Center.zip" sparkle:version="0.3.1" sparkle:shortVersionString="0.3.1" length="8640257" type="application/octet-stream" sparkle:edSignature="3FI7cFclh7J8YHVm32ed+fsy7ee0koG4zvLPmJMLZ90GE3MTzMUCOvJEuCzDJ9yZUHVF/5p0obMs5ZrwaSj5Dw=="/>
 </item>
 </channel></rss>
