@@ -1,10 +1,10 @@
 <?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
-<title>Battery Center</title>
+<title>Batteries</title>
 <item>
-<title>0.3.1</title>
-<pubDate>Tue, 15 Oct 2019 16:34:44 -0500</pubDate>
+<title>0.8</title>
+<pubDate>Fri, 18 Oct 2019 19:10:48 -0500</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ronyfadel/BatteriesWidget/releases/download/v0.3.1/Battery.Center.zip" sparkle:version="0.3.1" sparkle:shortVersionString="0.3.1" length="8640257" type="application/octet-stream" sparkle:edSignature="3FI7cFclh7J8YHVm32ed+fsy7ee0koG4zvLPmJMLZ90GE3MTzMUCOvJEuCzDJ9yZUHVF/5p0obMs5ZrwaSj5Dw=="/>
+<enclosure url="https://github.com/ronyfadel/BatteriesWidget/releases/download/v1.0/Batteries.zip" sparkle:version="0.8" sparkle:shortVersionString="0.8" length="8667588" type="application/octet-stream" sparkle:edSignature="yujhAzx/nXii5esbASnK7lOzFhGrB5Bg67gIMwIdwm+N2jVf29r6ng6I+/mw+UIdmj7OK+NQPsuXiBBLS6qACQ=="/>
 </item>
 </channel></rss>
