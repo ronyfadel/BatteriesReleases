@@ -1,22 +1,22 @@
-<?xml version="1.0" standalone="yes"?><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
 <channel>
 <title>Batteries</title>
 <item>
-<title>1.0.3</title>
+<title>1.0.4</title>
 <description><![CDATA[
-    <h2>Batteries v1.0.3</h2>
+    <h2>Batteries v1.0.4</h2>
     <ul>
-        <li>Better display name support for bluetooth devices</li>
-        <li>Better reliability for iPhone/iPad battery reporting</li>
-        <li>New icon for devices that don't report battery info</li>
-        <li>Added warning when communicating with helper app fails</li>
-        <li>Battery reporting fix for when iPhone/iPad is at 100% charge</li>
-        <li>Multiple helper app crash fixes</li>
+        <li>New!!! Touch Bar support!!!</li>
+        <li>Reduced battery usage</li>
+        <li>AirPods Pro support</li>
+        <li>Speed and reliability improvements</li>
     </ul>
 ]]>
 </description>
-<pubDate>Thu, 24 Oct 2019 23:07:40 -0500</pubDate>
+<pubDate>Mon, 16 Dec 2019 19:56:49 -0600</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v1.0.3/Batteries.tgz" sparkle:version="1.0.3" sparkle:shortVersionString="1.0.3" length="8080738" type="application/octet-stream" sparkle:edSignature="mq+DK2l9Yjo9kPwimS8X9EzUqE882cLlTe4GGtJiBWf+8soyxuOqwkPsXksZaA5VCQFQRhP6erR3Hu5aGKUdAA=="/>
+<enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v1.0.4/Batteries.tar.gz" sparkle:version="1.0.4" sparkle:shortVersionString="1.0.4" length="8147016" type="application/octet-stream" sparkle:edSignature="gQVf5oaeN40ekauTHN1rkEPUBnJwE7tXI+zZ8dojGGU30hi/SCyDvgEPWDYSp72bg6eFCUxexnR+Eh5ihTKOBw=="/>
 </item>
-</channel></rss>
+</channel>
+</rss>
