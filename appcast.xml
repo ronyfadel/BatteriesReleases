@@ -3,20 +3,17 @@
 <channel>
 <title>Batteries</title>
 <item>
-<title>1.0.4</title>
+<title>1.0.6</title>
 <description><![CDATA[
-    <h2>Batteries v1.0.4</h2>
+    <h2>Batteries v1.0.6</h2>
     <ul>
-        <li>New!!! Touch Bar support!!!</li>
-        <li>Reduced battery usage</li>
-        <li>AirPods Pro support</li>
-        <li>Speed and reliability improvements</li>
+        <li>Fixed multiple Batteries Helper crashers for a smoother ride 🎡</li>
     </ul>
 ]]>
 </description>
-<pubDate>Mon, 16 Dec 2019 19:56:49 -0600</pubDate>
+<pubDate>Thu, 09 Jan 2020 16:27:38 -0600</pubDate>
 <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-<enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v1.0.4/Batteries.tar.gz" sparkle:version="1.0.4" sparkle:shortVersionString="1.0.4" length="8147016" type="application/octet-stream" sparkle:edSignature="gQVf5oaeN40ekauTHN1rkEPUBnJwE7tXI+zZ8dojGGU30hi/SCyDvgEPWDYSp72bg6eFCUxexnR+Eh5ihTKOBw=="/>
+<enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v1.0.6/Batteries.tar.gz" sparkle:version="1.0.6" sparkle:shortVersionString="1.0.6" length="8147278" type="application/octet-stream" sparkle:edSignature="b9NSPU0A9YcvVDLRikduOxEP/i79JgUDdVlpikNCAEyKX+ZduACQuLVeKBHnZdhzBPPGawPDedH3bs/hktr+DQ=="/>
 </item>
 </channel>
 </rss>
