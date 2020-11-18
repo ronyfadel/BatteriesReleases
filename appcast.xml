@@ -1,19 +1,12 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Batteries 2.0.2</title>
-        <description><![CDATA[
-	    <h2>Batteries v2.0.2</h2>
-		    <ul>
-		        <li>Support for macOS Big Sur!</li>
-		    </ul>
-		]]>
-		</description>
+        <title>Batteries 2.0.3</title>
         <item>
-            <title>2.0.2</title>
-            <pubDate>Wed, 11 Nov 2020 23:44:30 +0200</pubDate>
+            <title>2.0.3</title>
+            <pubDate>Wed, 18 Nov 2020 21:44:31 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v2.0.2/Batteries.dmg" sparkle:version="2.0.2" sparkle:shortVersionString="2.0.2" length="7803836" type="application/octet-stream" sparkle:edSignature="hYoJXQL44GF0viH895EB51rPKd8j3F5wi/IKIa6U7jAiRhoJiI3VqnDnlKy4jiRZ8E30/NCPF+OscURuSMNQCA=="/>
+            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v2.0.3/Batteries.dmg" sparkle:version="2.0.3" sparkle:shortVersionString="2.0.3" length="7804459" type="application/octet-stream" sparkle:edSignature="k/RJ25RNyhxcpDHyqxyo8l1dqtw+TbrBQcDMt2gDZlbhr7Gq1cgFTD1l5ivyhiXFPfLegNaAh9ZOvtM3m1ZHCw=="/>
         </item>
     </channel>
 </rss>
