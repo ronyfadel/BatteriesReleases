@@ -1,12 +1,12 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Batteries 2.0.3</title>
+        <title>Batteries 2.0.4</title>
         <item>
-            <title>2.0.3</title>
-            <pubDate>Wed, 18 Nov 2020 21:44:31 +0200</pubDate>
+            <title>2.0.4</title>
+            <pubDate>Thu, 19 Nov 2020 11:27:18 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v2.0.3/Batteries.dmg" sparkle:version="2.0.3" sparkle:shortVersionString="2.0.3" length="7804459" type="application/octet-stream" sparkle:edSignature="k/RJ25RNyhxcpDHyqxyo8l1dqtw+TbrBQcDMt2gDZlbhr7Gq1cgFTD1l5ivyhiXFPfLegNaAh9ZOvtM3m1ZHCw=="/>
+            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v2.0.4/Batteries.dmg" sparkle:version="2.0.4" sparkle:shortVersionString="2.0.4" length="7804717" type="application/octet-stream" sparkle:edSignature="ASxk8qdmFKYXfAoAas9Jbi39Xrh+JLHuCICNfdJobgM7fMnHclIqR42z8TsHvEYdSGEdDpBceSKyximJet4rAA=="/>
         </item>
     </channel>
 </rss>
