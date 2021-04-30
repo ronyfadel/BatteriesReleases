@@ -1,12 +1,24 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Batteries 2.0.4</title>
+        <title>Batteries 2.1.1</title>
         <item>
-            <title>2.0.4</title>
-            <pubDate>Thu, 19 Nov 2020 11:27:18 +0200</pubDate>
+	        <description><![CDATA[
+		    <h2>Batteries v2.1.1</h2>
+			    <ul>
+			    	<li>Apple Silicon (M1) native support.</li>
+			    	<li>Better Menu bar item.</li>
+			        <li>Notifications can now include sounds.</li>
+			        <li>Updated icon for Big Sur.</li>
+			        <li>Individual device notification preferences.</li>
+			        <li>Crash fixes.</li>
+			    </ul>
+			]]>
+			</description>
+            <title>2.1.1</title>
+            <pubDate>Fri, 30 Apr 2021 16:04:26 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v2.0.4/Batteries.dmg" sparkle:version="2.0.4" sparkle:shortVersionString="2.0.4" length="7804717" type="application/octet-stream" sparkle:edSignature="ASxk8qdmFKYXfAoAas9Jbi39Xrh+JLHuCICNfdJobgM7fMnHclIqR42z8TsHvEYdSGEdDpBceSKyximJet4rAA=="/>
+            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v2.1.1/Batteries.dmg" sparkle:version="2.1.1" sparkle:shortVersionString="2.1.1" length="8691997" type="application/octet-stream" sparkle:edSignature="QfzCriY+iwq7AMUqOJd7+LAp+qBmOC4m7hA1PGzVRCJ+i/mPvABni9bmUPPhhQh6EjWzWLqjPKwESEeE5vRXAg=="/>
         </item>
     </channel>
 </rss>
