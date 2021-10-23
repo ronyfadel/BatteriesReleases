@@ -1,24 +1,20 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Batteries 2.1.2</title>
+        <title>Batteries 2.1.9</title>
         <item>
-	        <description><![CDATA[
-		    <h2>Batteries v2.1.2</h2>
-			    <ul>
-			    	<li>Catalina crash fix.</li>
-			    	<li>Better Menu bar item.</li>
-			        <li>Notifications can now include sounds.</li>
-			        <li>Updated icon for Big Sur.</li>
-			        <li>Individual device notification preferences.</li>
-			        <li>Crash fixes.</li>
-			    </ul>
-			]]>
-			</description>
-            <title>2.1.2</title>
-            <pubDate>Tue, 04 May 2021 11:54:28 +0200</pubDate>
+            <description><![CDATA[
+            <h2>Batteries v2.1.9</h2>
+                <ul>
+                    <li>Added percentage next to menubar item.</li>
+                    <li>Fixes for macOS Monterey.</li>
+                </ul>
+            ]]>
+            </description>
+            <title>2.1.9</title>
+            <pubDate>Sat, 23 Oct 2021 21:55:55 +0200</pubDate>
             <sparkle:minimumSystemVersion>10.14</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v2.1.2/Batteries.dmg" sparkle:version="2.1.2" sparkle:shortVersionString="2.1.2" length="7866856" type="application/octet-stream" sparkle:edSignature="W9D6nO6Uafw2akTqedClwRCKO5ha/3Q4KeWfAMDWt7kl5sZ66IXwa/C87i3H+aWX/p69XathqpzTg0wfLRbXAQ=="/>
+            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v2.1.9/Batteries.dmg" sparkle:version="2.1.9" sparkle:shortVersionString="2.1.9" length="7869495" type="application/octet-stream" sparkle:edSignature="c3s7VXEYJe6CnAyyQv6jTEAEem7fmLENHm4Kqzcu0DyyfpYhEFPkG62Yh6oOzR5fuSv7mFREChvFqw1mfE80AA=="/>
         </item>
     </channel>
 </rss>
