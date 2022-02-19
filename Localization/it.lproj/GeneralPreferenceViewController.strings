@@ -1,0 +1,30 @@
+
+/* Class = "NSTextFieldCell"; title = "Updates:"; ObjectID = "ARB-ZZ-CWe"; */
+"ARB-ZZ-CWe.title" = "Aggiornamenti:";
+
+/* Class = "NSButtonCell"; title = "Show in Touch Bar"; ObjectID = "FJ7-xn-oAT"; */
+"FJ7-xn-oAT.title" = "Mostra nella Touch Bar";
+
+/* Class = "NSButtonCell"; title = "Show in Menu Bar"; ObjectID = "MPC-FC-Jfh"; */
+"MPC-FC-Jfh.title" = "Mostra nella barra dei menù";
+
+/* Class = "NSTextFieldCell"; title = "Viewing Options:"; ObjectID = "R5z-Wf-aHQ"; */
+"R5z-Wf-aHQ.title" = "Opzioni di Visualizzazione:";
+
+/* Class = "NSButtonCell"; title = "Provide Feedback..."; ObjectID = "VP2-0Q-b8F"; */
+"VP2-0Q-b8F.title" = "Invia Feedback…";
+
+/* Class = "NSButtonCell"; title = "See our other apps..."; ObjectID = "W5M-rS-hyC"; */
+"W5M-rS-hyC.title" = "Guarda altre nostre app…";
+
+/* Class = "NSButtonCell"; title = "Check for Updates..."; ObjectID = "Yp3-Mt-aCR"; */
+"Yp3-Mt-aCR.title" = "Controlla Aggiornamenti…";
+
+/* Class = "NSTextFieldCell"; title = "Our Apps:"; ObjectID = "gKF-8A-tjg"; */
+"gKF-8A-tjg.title" = "Le Nostre App:";
+
+/* Class = "NSTextFieldCell"; title = "Long press the Control (⌃) key to show Batteries in the Touch Bar."; ObjectID = "tdU-AA-lUM"; */
+"tdU-AA-lUM.title" = "Tieni premuto il tasto Control (⌃) per mostrare Batterie nella Touch Bar.";
+
+/* Class = "NSTextFieldCell"; title = "Feedback:"; ObjectID = "wRc-DR-UJj"; */
+"wRc-DR-UJj.title" = "Feedback:";

@@ -1,0 +1,12 @@
+
+/* Class = "NSTextFieldCell"; title = "Send Low Battery Notification at:"; ObjectID = "37k-4m-F9e"; */
+"37k-4m-F9e.title" = "发出低电量通知:";
+
+/* Class = "NSButtonCell"; title = "Notifications enabled"; ObjectID = "Qbz-mh-H1D"; */
+"Qbz-mh-H1D.title" = "启用通知";
+
+/* Class = "NSButtonCell"; title = "Visible in UI"; ObjectID = "b85-CX-Uee"; */
+"b85-CX-Uee.title" = "在用户界面可见";
+
+/* Class = "NSButtonCell"; title = "Notifications Enabled"; ObjectID = "wkx-bQ-0OO"; */
+"wkx-bQ-0OO.title" = "启用通知";

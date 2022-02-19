@@ -1,0 +1,54 @@
+
+/* Class = "NSMenuItem"; title = "Batteries"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "Batteries";
+
+/* Class = "NSMenuItem"; title = "Quit Batteries"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "Quit Batteries";
+
+/* Class = "NSMenuItem"; title = "About Batteries"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "About Batteries";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "Main Menu";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "Preferences…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "DHI-PS-f4O"; */
+"DHI-PS-f4O.title" = "Close";
+
+/* Class = "NSMenuItem"; title = "Delete Item"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "Delete Item";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "Help";
+
+/* Class = "NSMenuItem"; title = "Batteries Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "Batteries Help";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "Show All";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "Services";
+
+/* Class = "NSMenuItem"; title = "Hide Batteries"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "Hide Batteries";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "Hide Others";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "File";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "File";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "Services";
+
+/* Class = "NSMenu"; title = "Batteries"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "Batteries";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "Help";

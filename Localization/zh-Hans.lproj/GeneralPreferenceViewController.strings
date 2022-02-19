@@ -1,0 +1,30 @@
+
+/* Class = "NSTextFieldCell"; title = "Updates:"; ObjectID = "ARB-ZZ-CWe"; */
+"ARB-ZZ-CWe.title" = "更新:";
+
+/* Class = "NSButtonCell"; title = "Show in Touch Bar"; ObjectID = "FJ7-xn-oAT"; */
+"FJ7-xn-oAT.title" = "在触摸栏中显示";
+
+/* Class = "NSButtonCell"; title = "Show in Menu Bar"; ObjectID = "MPC-FC-Jfh"; */
+"MPC-FC-Jfh.title" = "在菜单栏中显示";
+
+/* Class = "NSTextFieldCell"; title = "Viewing Options:"; ObjectID = "R5z-Wf-aHQ"; */
+"R5z-Wf-aHQ.title" = "查看选项";
+
+/* Class = "NSButtonCell"; title = "Provide Feedback..."; ObjectID = "VP2-0Q-b8F"; */
+"VP2-0Q-b8F.title" = "提供反馈…";
+
+/* Class = "NSButtonCell"; title = "See our other apps..."; ObjectID = "W5M-rS-hyC"; */
+"W5M-rS-hyC.title" = "查看我们其他的应用软件…";
+
+/* Class = "NSButtonCell"; title = "Check for Updates..."; ObjectID = "Yp3-Mt-aCR"; */
+"Yp3-Mt-aCR.title" = "检查更新…";
+
+/* Class = "NSTextFieldCell"; title = "Our Apps:"; ObjectID = "gKF-8A-tjg"; */
+"gKF-8A-tjg.title" = "我们的应用软件:";
+
+/* Class = "NSTextFieldCell"; title = "Long press the Control (⌃) key to show Batteries in the Touch Bar."; ObjectID = "tdU-AA-lUM"; */
+"tdU-AA-lUM.title" = "长按Control（⌃）键，在触摸栏中显示电池。";
+
+/* Class = "NSTextFieldCell"; title = "Feedback:"; ObjectID = "wRc-DR-UJj"; */
+"wRc-DR-UJj.title" = "Feedback:";

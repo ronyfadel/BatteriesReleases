@@ -1,0 +1,4 @@
+"NSHumanReadableCopyright" = "Copyright © 2022 Rony Fadel. Все права защищены.";
+"CFBundleName" = "Batteries";
+"NSBluetoothAlwaysUsageDescription" = "Batteries использует Bluetooth для отслеживания уровня заряда батареи ваших AirPods и устройств Bluetooth.";
+"MDItemKeywords" = "энергия, уровень заряда батареи,батареи,батарея,виджет,энергия,беспроводная связь,трек,уведомление,battery level,batteries,battery,widget,energy,wireless,track,notification,airpods,airpod,bluetooth";

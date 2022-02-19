@@ -1,0 +1,4 @@
+/* Display name and description for this extension. */
+"CFBundleDisplayName" = "Batteries";
+"com.apple.notificationcenter.widget.description" = "Отображать уровень заряда подключенных устройств";
+

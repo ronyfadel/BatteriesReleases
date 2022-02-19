@@ -1,0 +1,53 @@
+/* Class = "NSMenuItem"; title = "Batteries"; ObjectID = "1Xt-HY-uBw"; */
+"1Xt-HY-uBw.title" = "电池";
+
+/* Class = "NSMenuItem"; title = "Quit Batteries"; ObjectID = "4sb-4s-VLi"; */
+"4sb-4s-VLi.title" = "退出电池浏览器";
+
+/* Class = "NSMenuItem"; title = "About Batteries"; ObjectID = "5kV-Vb-QxS"; */
+"5kV-Vb-QxS.title" = "关于电池浏览器";
+
+/* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
+"AYu-sK-qS6.title" = "主菜单";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
+"BOF-NM-1cW.title" = "偏好设置…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "DHI-PS-f4O"; */
+"DHI-PS-f4O.title" = "关闭";
+
+/* Class = "NSMenuItem"; title = "Delete Item"; ObjectID = "DVo-aG-piG"; */
+"DVo-aG-piG.title" = "删除项";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
+"F2S-fz-NVQ.title" = "帮助";
+
+/* Class = "NSMenuItem"; title = "Batteries Help"; ObjectID = "FKE-Sm-Kum"; */
+"FKE-Sm-Kum.title" = "电池浏览器帮助";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
+"Kd2-mp-pUS.title" = "全部显示";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
+"NMo-om-nkz.title" = "服务";
+
+/* Class = "NSMenuItem"; title = "Hide Batteries"; ObjectID = "Olw-nP-bQN"; */
+"Olw-nP-bQN.title" = "隐藏电池浏览器";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
+"Vdr-fp-XzO.title" = "隐藏其他";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
+"bib-Uj-vzu.title" = "文件";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
+"dMs-cI-mzQ.title" = "文件";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
+"hz9-B4-Xy5.title" = "服务";
+
+/* Class = "NSMenu"; title = "Batteries"; ObjectID = "uQy-DD-JDr"; */
+"uQy-DD-JDr.title" = "电池";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
+"wpr-3q-Mcd.title" = "帮助";
