@@ -1,20 +1,19 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Batteries 2.2.4</title>
+        <title>Batteries 2.2.6</title>
         <item>
             <description><![CDATA[
-            <h2>Batteries v2.2.4</h2>
+            <h2>Batteries v2.2.6</h2>
                 <ul>
-                    <li>Added support for more bluetooth devices (macOS Monterey).</li>
-                    <li>Performance fixes.</li>
+                    <li>Performance & Bug fixes.</li>
                 </ul>
             ]]>
             </description>
-            <title>2.2.4</title>
-            <pubDate>Sun, 20 Mar 2022 19:00:31 +0100</pubDate>
+            <title>2.2.6</title>
+            <pubDate>Fri, 07 Oct 2022 15:53:34 -0500</pubDate>
             <sparkle:minimumSystemVersion>10.15</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v2.2.4/Batteries.dmg" sparkle:version="2.2.4" sparkle:shortVersionString="2.2.4" length="4598882" type="application/octet-stream" sparkle:edSignature="n17jTX/RqaAtj/kxT0TUxVtoZQswZt8uumoR7GEB7dDi672SwdRlgeK1riRmofHJh7bmb4oOkHB6zj7pc3IeCw=="/>
+            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v2.2.6/Batteries.dmg" sparkle:version="2.2.6" sparkle:shortVersionString="2.2.6" length="4590430" type="application/octet-stream" sparkle:edSignature="6O4TnAPvYcVFMLsauhugRZlD7ldSVS9kvhkRujtk5oJ2z2KegOVRYNgNk0aEQl8flQXoxCXKRcFifsR2n8rzCA=="/>
         </item>
     </channel>
 </rss>
