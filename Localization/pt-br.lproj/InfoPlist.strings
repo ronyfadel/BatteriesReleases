@@ -1,4 +1,4 @@
 "NSHumanReadableCopyright" = "Copyright © 2022 Rony Fadel. Todos os direitos reservados.";
 "CFBundleName" = "Batterie";
-"NSBluetoothAlwaysUsageDescription" = "Batteries usa o Bluetooth para rastrear o nível de bateria de seus AirPods e dispositivos Bluetooth.";
+"NSBluetoothAlwaysUsageDescription" = "Batteries usa o Bluetooth para acompanhar o nível de bateria de seus AirPods e dispositivos Bluetooth.";
 "MDItemKeywords" = "energy,battery level,bluetooth,batteries,battery,widget,wireless,track,notification,airpods,airpod";
