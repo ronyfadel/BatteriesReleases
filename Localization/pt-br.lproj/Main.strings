@@ -3,52 +3,52 @@
 "1Xt-HY-uBw.title" = "Batteries";
 
 /* Class = "NSMenuItem"; title = "Quit Batteries"; ObjectID = "4sb-4s-VLi"; */
-"4sb-4s-VLi.title" = "Quit Batteries";
+"4sb-4s-VLi.title" = "Sair do Batteries";
 
 /* Class = "NSMenuItem"; title = "About Batteries"; ObjectID = "5kV-Vb-QxS"; */
-"5kV-Vb-QxS.title" = "About Batteries";
+"5kV-Vb-QxS.title" = "Sobre o Batteries";
 
 /* Class = "NSMenu"; title = "Main Menu"; ObjectID = "AYu-sK-qS6"; */
-"AYu-sK-qS6.title" = "Main Menu";
+"AYu-sK-qS6.title" = "Menu Principal";
 
 /* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "BOF-NM-1cW"; */
-"BOF-NM-1cW.title" = "Preferences…";
+"BOF-NM-1cW.title" = "Preferências…";
 
 /* Class = "NSMenuItem"; title = "Close"; ObjectID = "DHI-PS-f4O"; */
-"DHI-PS-f4O.title" = "Close";
+"DHI-PS-f4O.title" = "Fechar";
 
 /* Class = "NSMenuItem"; title = "Delete Item"; ObjectID = "DVo-aG-piG"; */
-"DVo-aG-piG.title" = "Delete Item";
+"DVo-aG-piG.title" = "Apagar Item";
 
 /* Class = "NSMenu"; title = "Help"; ObjectID = "F2S-fz-NVQ"; */
-"F2S-fz-NVQ.title" = "Help";
+"F2S-fz-NVQ.title" = "Ajuda";
 
 /* Class = "NSMenuItem"; title = "Batteries Help"; ObjectID = "FKE-Sm-Kum"; */
-"FKE-Sm-Kum.title" = "Batteries Help";
+"FKE-Sm-Kum.title" = "Ajuda do Batteries";
 
 /* Class = "NSMenuItem"; title = "Show All"; ObjectID = "Kd2-mp-pUS"; */
-"Kd2-mp-pUS.title" = "Show All";
+"Kd2-mp-pUS.title" = "Mostrar tudo";
 
 /* Class = "NSMenuItem"; title = "Services"; ObjectID = "NMo-om-nkz"; */
-"NMo-om-nkz.title" = "Services";
+"NMo-om-nkz.title" = "Serviços";
 
 /* Class = "NSMenuItem"; title = "Hide Batteries"; ObjectID = "Olw-nP-bQN"; */
-"Olw-nP-bQN.title" = "Hide Batteries";
+"Olw-nP-bQN.title" = "Ocultar Batteries";
 
 /* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "Vdr-fp-XzO"; */
-"Vdr-fp-XzO.title" = "Hide Others";
+"Vdr-fp-XzO.title" = "Ocultar Outros";
 
 /* Class = "NSMenu"; title = "File"; ObjectID = "bib-Uj-vzu"; */
-"bib-Uj-vzu.title" = "File";
+"bib-Uj-vzu.title" = "Arquivo";
 
 /* Class = "NSMenuItem"; title = "File"; ObjectID = "dMs-cI-mzQ"; */
-"dMs-cI-mzQ.title" = "File";
+"dMs-cI-mzQ.title" = "Arquivo";
 
 /* Class = "NSMenu"; title = "Services"; ObjectID = "hz9-B4-Xy5"; */
-"hz9-B4-Xy5.title" = "Services";
+"hz9-B4-Xy5.title" = "Serviços";
 
 /* Class = "NSMenu"; title = "Batteries"; ObjectID = "uQy-DD-JDr"; */
 "uQy-DD-JDr.title" = "Batteries";
 
 /* Class = "NSMenuItem"; title = "Help"; ObjectID = "wpr-3q-Mcd"; */
-"wpr-3q-Mcd.title" = "Help";
+"wpr-3q-Mcd.title" = "Ajuda";
