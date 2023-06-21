@@ -1,30 +1,30 @@
 
 /* Class = "NSTextFieldCell"; title = "Updates:"; ObjectID = "ARB-ZZ-CWe"; */
-"ARB-ZZ-CWe.title" = "Updates:";
+"ARB-ZZ-CWe.title" = "Atualizações:";
 
 /* Class = "NSButtonCell"; title = "Show in Touch Bar"; ObjectID = "FJ7-xn-oAT"; */
-"FJ7-xn-oAT.title" = "Show in Touch Bar";
+"FJ7-xn-oAT.title" = "Mostrar na Touch Bar";
 
 /* Class = "NSButtonCell"; title = "Show in Menu Bar"; ObjectID = "MPC-FC-Jfh"; */
-"MPC-FC-Jfh.title" = "Show in Menu Bar";
+"MPC-FC-Jfh.title" = "Mostrar na barra de menu";
 
 /* Class = "NSTextFieldCell"; title = "Viewing Options:"; ObjectID = "R5z-Wf-aHQ"; */
-"R5z-Wf-aHQ.title" = "Viewing Options:";
+"R5z-Wf-aHQ.title" = "Opções de Visualização:";
 
 /* Class = "NSButtonCell"; title = "Provide Feedback..."; ObjectID = "VP2-0Q-b8F"; */
-"VP2-0Q-b8F.title" = "Provide Feedback...";
+"VP2-0Q-b8F.title" = "Fornecer Feedback...";
 
 /* Class = "NSButtonCell"; title = "See our other apps..."; ObjectID = "W5M-rS-hyC"; */
-"W5M-rS-hyC.title" = "See our other apps...";
+"W5M-rS-hyC.title" = "Veja nossos outros apps...";
 
 /* Class = "NSButtonCell"; title = "Check for Updates..."; ObjectID = "Yp3-Mt-aCR"; */
-"Yp3-Mt-aCR.title" = "Check for Updates...";
+"Yp3-Mt-aCR.title" = "Verificar por Atualizações...";
 
 /* Class = "NSTextFieldCell"; title = "Our Apps:"; ObjectID = "gKF-8A-tjg"; */
-"gKF-8A-tjg.title" = "Our Apps:";
+"gKF-8A-tjg.title" = "Nossos Aplicativos:";
 
 /* Class = "NSTextFieldCell"; title = "Long press the Control (⌃) key to show Batteries in the Touch Bar."; ObjectID = "tdU-AA-lUM"; */
-"tdU-AA-lUM.title" = "Long press the Control (⌃) key to show Batteries in the Touch Bar.";
+"tdU-AA-lUM.title" = "Pressione e segure a tecla Control (⌃) para mostrar Batteries na Touch Bar.";
 
 /* Class = "NSTextFieldCell"; title = "Feedback:"; ObjectID = "wRc-DR-UJj"; */
 "wRc-DR-UJj.title" = "Feedback:";
