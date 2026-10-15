@@ -1,24 +1,22 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Batteries 3.0.2</title>
+        <title>Batteries 3.0.3</title>
         <item>
             <description><![CDATA[
-            <h2>Batteries v3.0.2</h2>
+            <h2>Batteries v3.0.3</h2>
                 <ul>
-                    <li>Improved AirPods detection: only paired AirPods are shown, with better AirPods Max support.</li>
-                    <li>Fixed a bug that could mix up devices with the same display name.</li>
-                    <li>Fixed crash-prone parsing bugs.</li>
-                    <li>Cleaner menu bar look for iMacs.</li>
+                    <li>Fixed iPhone and iPad battery levels getting stuck when read over Bluetooth.</li>
+                    <li>Bluetooth-connected iPhones and iPads now show when they're charging.</li>
                 </ul>
             ]]>
             </description>
-            <title>3.0.2</title>
-            <pubDate>Sun, 09 Aug 2026 20:51:51 +0000</pubDate>
-            <sparkle:version>3.0.2</sparkle:version>
-            <sparkle:shortVersionString>3.0.2</sparkle:shortVersionString>
+            <title>3.0.3</title>
+            <pubDate>Thu, 15 Oct 2026 20:41:00 +0000</pubDate>
+            <sparkle:version>3.0.3</sparkle:version>
+            <sparkle:shortVersionString>3.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v3.0.2/Batteries.dmg" length="9204985" type="application/octet-stream" sparkle:edSignature="VI9s3idx8LJjtcKnGFPd7ePFTIRS9FCW11PuTQ65STuBpJAklA7ySBj8DJY4JicQ7fBTQahz4lyaNbjo0KdRBw=="/>
+            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v3.0.3/Batteries.dmg" length="9235442" type="application/octet-stream" sparkle:edSignature="a/iBPnDDB0A09KxWcAQK72Fk8IyvrkJYWc2la5pJLGMr2qovSshlJ/pAzK4iVasaKwsTsxtXYZBS38m5oeJKCQ=="/>
         </item>
     </channel>
 </rss>
