@@ -1,22 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Batteries 3.0.3</title>
+        <title>Batteries 3.1.0</title>
         <item>
             <description><![CDATA[
-            <h2>Batteries v3.0.3</h2>
+            <h2>Batteries v3.1.0</h2>
                 <ul>
-                    <li>Fixed iPhone and iPad battery levels getting stuck when read over Bluetooth.</li>
-                    <li>Bluetooth-connected iPhones and iPads now show when they're charging.</li>
+                    <li>The battery menu now shows when you're on a slow charger.</li>
+                    <li>New Energy Mode section with a Low Power Mode toggle.</li>
+                    <li>See which apps are using significant energy.</li>
+                    <li>Refreshed battery icons for your iPhone, iPad, AirPods and other accessories, in the menu and in the widget.</li>
+                    <li>Support for the latest iPhones, iPads, AirPods (including AirPods Pro 3) and Beats.</li>
+                    <li>Better detection of Logitech and other third-party mice and keyboards.</li>
                 </ul>
             ]]>
             </description>
-            <title>3.0.3</title>
-            <pubDate>Thu, 15 Oct 2026 20:41:00 +0000</pubDate>
-            <sparkle:version>3.0.3</sparkle:version>
-            <sparkle:shortVersionString>3.0.3</sparkle:shortVersionString>
+            <title>3.1.0</title>
+            <pubDate>Fri, 23 Oct 2026 11:55:57 +0000</pubDate>
+            <sparkle:version>3.1.0</sparkle:version>
+            <sparkle:shortVersionString>3.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v3.0.3/Batteries.dmg" length="9235442" type="application/octet-stream" sparkle:edSignature="a/iBPnDDB0A09KxWcAQK72Fk8IyvrkJYWc2la5pJLGMr2qovSshlJ/pAzK4iVasaKwsTsxtXYZBS38m5oeJKCQ=="/>
+            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v3.1.0/Batteries.dmg" length="9289779" type="application/octet-stream" sparkle:edSignature="2CQa9CaFkKRlPuzPTJJpTKpYzNZQkKKXSqsVq/7IVW4Di6OyR8h3tS/hPrUjh0AzO6cOKRGdpKJLC0EEBMK9AQ=="/>
         </item>
     </channel>
 </rss>
