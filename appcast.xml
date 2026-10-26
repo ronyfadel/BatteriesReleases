@@ -1,24 +1,23 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Batteries 3.1.1</title>
+        <title>Batteries 3.1.2</title>
         <item>
             <description><![CDATA[
-            <h2>Batteries v3.1.1</h2>
+            <h2>Batteries v3.1.2</h2>
                 <ul>
-                    <li>Picking an app under Apps Using Significant Energy now shows it in Activity Monitor.</li>
-                    <li>The menu bar battery icon now matches the system's colors, including in Low Power Mode.</li>
-                    <li>Subtler percentages in your devices' battery icons.</li>
-                    <li>The Touch Bar setting is hidden on Macs without a Touch Bar.</li>
+                    <li>Move your license to this Mac, or deactivate it to use it on another Mac, from the License settings.</li>
+                    <li>Batteries is now available in Korean, Dutch, Polish and Ukrainian.</li>
+                    <li>After an update, the menu bar item now restarts on the new version right away.</li>
                 </ul>
             ]]>
             </description>
-            <title>3.1.1</title>
-            <pubDate>Sat, 24 Oct 2026 09:39:13 +0000</pubDate>
-            <sparkle:version>3.1.1</sparkle:version>
-            <sparkle:shortVersionString>3.1.1</sparkle:shortVersionString>
+            <title>3.1.2</title>
+            <pubDate>Mon, 26 Oct 2026 23:28:41 +0000</pubDate>
+            <sparkle:version>3.1.2</sparkle:version>
+            <sparkle:shortVersionString>3.1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v3.1.1/Batteries.dmg" length="9306836" type="application/octet-stream" sparkle:edSignature="z8zwHgMb1H4QsgRIJxjiepf8R/t0PJFIG6arLX6YFvzSp2TNLvlTY61NZkhKCGTE7ZkHnMp2WQtsd0xmE3stAw=="/>
+            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v3.1.2/Batteries.dmg" length="9340671" type="application/octet-stream" sparkle:edSignature="4Jnf7xzN2HIXXAv///t+SFYrp21Pg/avc6QHIGfVhn1pr0fxOrhUwME09sH4BsV53mzxKnUGeaBKj0Hu8So8Cw=="/>
         </item>
     </channel>
 </rss>
