@@ -1,0 +1,4 @@
+"NSHumanReadableCopyright" = "Copyright © 2022 Rony Fadel. Alle Rechte vorbehalten.";
+"CFBundleName" = "Batteries";
+"NSBluetoothAlwaysUsageDescription" = "Batteries nutzt Bluetooth, um dich über den Ladezustand deiner AirPods und anderer Bluetooth-Geräte zu informieren.";
+"MDItemKeywords" = "energie,ladezustand,bluetooth,batteries,batterie,akku,widget,wireless,track,mitteilung,airpods,airpod";
