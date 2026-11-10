@@ -1,0 +1,8 @@
+/* Class = "NSTextFieldCell"; title = "License Key"; ObjectID = "lUZ-tI-VH4"; */
+"lUZ-tI-VH4.title" = "Chave de Licença";
+
+/* Class = "NSButtonCell"; title = "Purchase License"; ObjectID = "ore-iF-qeE"; */
+"ore-iF-qeE.title" = "Comprar Licença";
+
+/* Class = "NSTextFieldCell"; title = "Trial Mode"; ObjectID = "roU-48-ho5"; */
+"roU-48-ho5.title" = "Versão de Avaliação";
