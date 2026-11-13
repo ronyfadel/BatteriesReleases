@@ -1,21 +1,22 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Batteries 3.1.3</title>
+        <title>Batteries 3.1.4</title>
         <item>
             <description><![CDATA[
-            <h2>Batteries v3.1.3</h2>
+            <h2>Batteries v3.1.4</h2>
                 <ul>
-                    <li>The menu bar battery now shows the charging bolt whenever your Mac is plugged in, like the system battery does, even while charging is on hold.</li>
+                    <li>AirPods battery levels now come straight from macOS, so they stay accurate while the AirPods are in their closed case.</li>
+                    <li>Permission prompts for Bluetooth and local network access now say Batteries.</li>
                 </ul>
             ]]>
             </description>
-            <title>3.1.3</title>
-            <pubDate>Tue, 10 Nov 2026 10:44:32 +0000</pubDate>
-            <sparkle:version>3.1.3</sparkle:version>
-            <sparkle:shortVersionString>3.1.3</sparkle:shortVersionString>
+            <title>3.1.4</title>
+            <pubDate>Fri, 13 Nov 2026 09:26:59 +0000</pubDate>
+            <sparkle:version>3.1.4</sparkle:version>
+            <sparkle:shortVersionString>3.1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.4</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v3.1.3/Batteries.dmg" length="9343273" type="application/octet-stream" sparkle:edSignature="+u0NRnQgP1Wwlne/VrKpA/L/ZEI8jD+gR85qyS3A2SoOVv2Kzx5mDvCiFSN1srwessmoI1ZzSLIw2xSilrTiCg=="/>
+            <enclosure url="https://github.com/ronyfadel/BatteriesReleases/releases/download/v3.1.4/Batteries.dmg" length="9370403" type="application/octet-stream" sparkle:edSignature="p6y38WIVOrNbK21A29U8vKyadqssQnDVXapcG6arnzSmg4+0FZQ9qdus0lSS1rrV6G7S5IqUKXTTf/DtYB9ZDw=="/>
         </item>
     </channel>
 </rss>
